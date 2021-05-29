@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Kevin_lib
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: kevin
+    m_Hash: 1785806371
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: 26bd4d12c40572341955fe658d252f34, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: 88789fcc6f885c1419c47835fac9efd5, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: 9f095b25d5c7f7d46b233aa36da63d76, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: d45ec93d5cad50b4eb3e49dd87a19aad, type: 3}
+  - m_Name: lara
+    m_Hash: 1042119690
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: 17d2b1a818dd32f4ba7a87b389070000, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: d5a3b7cce8ca2c3449a9e57581d1cb84, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: 149a4c0845b45e94d89c9f742b05f1e9, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: 0cb08b1f2a3a88f4781ed3f7fafd5d21, type: 3}
+  - m_Name: panda
+    m_Hash: -989356301
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: 7859c47db99f2ba47b09911f704ff471, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: 7859c47db99f2ba47b09911f704ff471, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: ef3af216bc1815d4e933694b065cf1a0, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: 3c60d7726a958124d8137a17c812b13b, type: 3}
+  - m_Name: ninja
+    m_Hash: 1105244785
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: 14be915747169af40acf00f8a888134b, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: 14be915747169af40acf00f8a888134b, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: f805ed51ac430d64f9c1a5c824cd7df5, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: 7e03786cf028aaa4da08760c752bef6a, type: 3}
+  - m_Name: kevinsnow
+    m_Hash: 833793288
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: af4a5cdff7f417347b2076a2ab68f387, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: af4a5cdff7f417347b2076a2ab68f387, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: 43ef47628096d1b4a9a5b02319fd7a98, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: c2dca84c09c93264cbd93b4b40958c17, type: 3}
+  - m_Name: robot
+    m_Hash: -668238108
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: 4665a8a4533ff7d479b403ea4b666e54, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: 4665a8a4533ff7d479b403ea4b666e54, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: adfa2191563be0b4faeeaacd9da509d3, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: 435a58df6bf7c5544ab68e2bb6083e66, type: 3}
+  - m_Name: kevinminer
+    m_Hash: 1506987708
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: 6f7984c27b2f2e44eb06f0f6175ddac3, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: 6f7984c27b2f2e44eb06f0f6175ddac3, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: 9db5d0aecea3f4f4c841ff51d223ddb5, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: 85f43eede398835478600fc948161f3a, type: 3}
+  - m_Name: diana
+    m_Hash: 1684023529
+    m_CategoryList:
+    - m_Name: walk
+      m_Hash: -1919845803
+      m_Sprite: {fileID: 21300000, guid: af7f8efe5b197d241ab532c75cfc628f, type: 3}
+    - m_Name: idle
+      m_Hash: -601574123
+      m_Sprite: {fileID: 21300000, guid: af7f8efe5b197d241ab532c75cfc628f, type: 3}
+    - m_Name: blink
+      m_Hash: 842569181
+      m_Sprite: {fileID: 21300000, guid: 2ad5968f072850e4e9f1e3e498f74993, type: 3}
+    - m_Name: dead
+      m_Hash: -316323548
+      m_Sprite: {fileID: 21300000, guid: a95120effe4d1d3408fecfe2dec41429, type: 3}

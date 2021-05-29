@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: cyclop_lib
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: normal
+    m_Hash: 562391268
+    m_CategoryList:
+    - m_Name: cyclop
+      m_Hash: 291385876
+      m_Sprite: {fileID: 21300000, guid: 2bfa7510da0fedf45add55d61914a7d9, type: 3}
+  - m_Name: tired
+    m_Hash: -1988194554
+    m_CategoryList:
+    - m_Name: cyclop
+      m_Hash: 291385876
+      m_Sprite: {fileID: 21300000, guid: b1f17f9fdcddb5e45b6c05ab25b2f47e, type: 3}
+  - m_Name: weak
+    m_Hash: 1060547780
+    m_CategoryList:
+    - m_Name: cyclop
+      m_Hash: 291385876
+      m_Sprite: {fileID: 21300000, guid: 7a72d94c626ad27468888ed4dcf8bcab, type: 3}

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coins
+  - FallDetector
+  - Checkpoint
+  - Enemy
+  - turn
+  - EnemyHead
+  - Ground
+  - questBox
+  - Heart
+  - DirtBox
+  - unFreeze
+  - Freeze
+  - Slime
+  - GroundBox
+  - Magnet
+  - Button
+  - weight
+  - Platform
+  - LivedEnemy
+  - StopPlatform
+  - Bullet
+  - protectionShield
+  - bomb
+  - SlimeCollect
+  - CoinCollect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - EnemyBound
+  - 
+  - 
+  - 
+  - Enemy
+  - Coin
+  - Player
+  - Heart
+  - water
+  - Foreground
+  - Slime
+  - Bounds
+  - magnet
+  - FallDetector
+  - weight
+  - Light
+  - WallSpikes
+  - Bullet
+  - Shield
+  - Bomb
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back_Background
+    uniqueID: 3797436265
+    locked: 0
+  - name: Background
+    uniqueID: 3327147257
+    locked: 0
+  - name: Default Background
+    uniqueID: 3026276823
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Default2
+    uniqueID: 942159235
+    locked: 0
+  - name: Enemies
+    uniqueID: 2687994341
+    locked: 0
+  - name: Default_Foreground
+    uniqueID: 2223467261
+    locked: 0
+  - name: Player
+    uniqueID: 643596267
+    locked: 0
+  - name: Foreground
+    uniqueID: 747874497
+    locked: 0
+  - name: Canvas
+    uniqueID: 1722963711
+    locked: 0
+  - name: Canvas1
+    uniqueID: 4035637357
+    locked: 0
