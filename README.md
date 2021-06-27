@@ -2,7 +2,9 @@
   <img alt="Kevins Adventures logo" height=300px src="/Assets/Artworks/Logo/kevinslogoNOSHADOW.png" />
   <h1 align="center">Kevins Adventures</h1>
 </p>
-
+<p align="center">
+<a href='https://play.google.com/store/apps/details?id=com.DanielSzulc.KevinsAdventures&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height=100px src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+</p>
 Kevin's Adventures is an arcade-adventure platform game 🕹, where you have to run, jump, shoot slime, smash blocks, earn coins, diamonds 💎 and points. You can improve your character, buy new characters and other additions. Kevin's world of adventures is full of dangers, from angry turtles 🐢, spiders 🕷, prickly hedgehogs 🦔 and fast birds 🐦 to furious yeti, hungry plants 🌺 and the cyclops himself! 👹
 
 ## Screenshots
