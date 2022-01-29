@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66ecaba5-2473-4376-913d-64bb34ce3542" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kevins_Adventures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kevins_Adventures/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Common/IInitializationStatusClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelsInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IAPManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAds/Editor/ManifestProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CrystalFramework/Utility/SafeArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CompleteMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menus/mainmenuplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menus/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menus/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerRunningScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HeartCollect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/character_change.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/slimeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMapManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollectObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AxisButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestionBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QualityScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TutorialSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.3.4/Runtime/Behaviours/CinemachineCollider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RequestAd.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/closeBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@7.3.1/Editor/2D/SortingLayerDropDown.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMagnetScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/storeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AdBannerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AdManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/story_script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/map_manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/infoMessagescript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/millRotateScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PremiumObjectScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/unstableBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerStompBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menus/level_play_menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menus/languageMENU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menus/settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyHead.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/enemy03detector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/enemy_questionbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyWalking.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FailedMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/enemy_collision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy_03Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy_02Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy_01Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/TriggeredByEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy_04Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/creditsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HeartScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/endLevelScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/secretGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Checkpoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UnityPurchasing/script/IAPListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SlimeCollect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/premiumCollect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playerProtectedScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DailyReward.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Enemy_07Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/particlePlayerSmokeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mine_bomb_assistant_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/slimeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/mine_bomb_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/w01l12Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UNLOCK_ALL_LEVELS.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemy07PlayerDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/snowball_Script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMapManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/fireFollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GPGSAuthentication.cs" />
+        <option value="$PROJECT_DIR$/Assets/AchivmentTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/echoSoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ForceRenderRate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/res/values-de/strings.xml" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/res/values-pl/strings.xml" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/res/values-en/strings.xml" />
+        <option value="$PROJECT_DIR$/Assets/CheckFPS.cs" />
+        <option value="$PROJECT_DIR$/Assets/SlimeSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stars_overhead_boss.cs" />
+        <option value="$PROJECT_DIR$/Assets/Boss_01_Detector.cs" />
+        <option value="$PROJECT_DIR$/Assets/w01l14_enemy_spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyWalking.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy_01Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy_03Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy_04Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/endLevelScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/story_script_w01e14.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemy_Boss_01_Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/reward_w01e14.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/character_change.cs" />
+        <option value="$PROJECT_DIR$/Assets/w01l14manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AdManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FailedMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menus/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/map_manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/creditsScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menus/settings.cs" />
+        <option value="$PROJECT_DIR$/Assets/RateUs_Script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CompleteMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QualityScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IAPManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/storeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/NotificationManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VKyHzJmFVhnmmHjTSMRKrM05xE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66ecaba5-2473-4376-913d-64bb34ce3542" name="Default Changelist" comment="" />
+      <created>1577015999314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577015999314</updated>
+      <workItem from="1577016009925" duration="15494000" />
+      <workItem from="1577100470133" duration="22205000" />
+      <workItem from="1577132796051" duration="289000" />
+      <workItem from="1577142451972" duration="3113000" />
+      <workItem from="1577195077236" duration="4442000" />
+      <workItem from="1577210307913" duration="7403000" />
+      <workItem from="1577384804008" duration="390000" />
+      <workItem from="1577456439242" duration="3449000" />
+      <workItem from="1577460272158" duration="1359000" />
+      <workItem from="1577463262758" duration="1207000" />
+      <workItem from="1577465929930" duration="12902000" />
+      <workItem from="1577533753774" duration="69000" />
+      <workItem from="1577533825442" duration="784000" />
+      <workItem from="1577540959730" duration="595000" />
+      <workItem from="1577555813303" duration="656000" />
+      <workItem from="1577580552842" duration="1542000" />
+      <workItem from="1577619441498" duration="7971000" />
+      <workItem from="1577636127027" duration="2807000" />
+      <workItem from="1577639736020" duration="3994000" />
+      <workItem from="1577646769741" duration="2179000" />
+      <workItem from="1577649872868" duration="496000" />
+      <workItem from="1577977579440" duration="5674000" />
+      <workItem from="1578013463880" duration="4100000" />
+      <workItem from="1578050398605" duration="903000" />
+      <workItem from="1578056969872" duration="1350000" />
+      <workItem from="1578250897677" duration="6143000" />
+      <workItem from="1578320130814" duration="3774000" />
+      <workItem from="1578331340999" duration="22000" />
+      <workItem from="1578332313163" duration="2603000" />
+      <workItem from="1578390881653" duration="4297000" />
+      <workItem from="1578395895528" duration="1283000" />
+      <workItem from="1578405850202" duration="2701000" />
+      <workItem from="1578588203503" duration="344000" />
+      <workItem from="1578592161354" duration="10254000" />
+      <workItem from="1578670044159" duration="1251000" />
+      <workItem from="1578836534350" duration="5932000" />
+      <workItem from="1579199354281" duration="1548000" />
+      <workItem from="1579213408174" duration="7719000" />
+      <workItem from="1579344364470" duration="10940000" />
+      <workItem from="1579363601836" duration="1069000" />
+      <workItem from="1579427649416" duration="8430000" />
+      <workItem from="1580682518200" duration="7640000" />
+      <workItem from="1580854312988" duration="5816000" />
+      <workItem from="1580909449040" duration="5830000" />
+      <workItem from="1581087839192" duration="3909000" />
+      <workItem from="1581095672433" duration="14233000" />
+      <workItem from="1581120553797" duration="8393000" />
+      <workItem from="1581166515404" duration="7090000" />
+      <workItem from="1581205925694" duration="9834000" />
+      <workItem from="1581254009150" duration="18138000" />
+      <workItem from="1581286750681" duration="962000" />
+      <workItem from="1581437464495" duration="843000" />
+      <workItem from="1581638481051" duration="6240000" />
+      <workItem from="1581701894420" duration="10195000" />
+      <workItem from="1581784201071" duration="15862000" />
+      <workItem from="1581803726955" duration="7317000" />
+      <workItem from="1581895045588" duration="909000" />
+      <workItem from="1581896021476" duration="91000" />
+      <workItem from="1581896430903" duration="477000" />
+      <workItem from="1581897116957" duration="273000" />
+      <workItem from="1581897584423" duration="201000" />
+      <workItem from="1581898106418" duration="411000" />
+      <workItem from="1581899426755" duration="597000" />
+      <workItem from="1581900283081" duration="3229000" />
+      <workItem from="1581957714732" duration="3472000" />
+      <workItem from="1582039264611" duration="10566000" />
+      <workItem from="1582071613730" duration="7071000" />
+      <workItem from="1582078763103" duration="1127000" />
+      <workItem from="1582114560666" duration="23987000" />
+      <workItem from="1582156865397" duration="1340000" />
+      <workItem from="1582158591799" duration="1355000" />
+      <workItem from="1582160545005" duration="196000" />
+      <workItem from="1582160949844" duration="106000" />
+      <workItem from="1582164797254" duration="1674000" />
+      <workItem from="1582201967187" duration="15000" />
+      <workItem from="1582202172161" duration="265000" />
+      <workItem from="1582203129928" duration="5444000" />
+      <workItem from="1582233072453" duration="12455000" />
+      <workItem from="1582253945706" duration="1858000" />
+      <workItem from="1582285212965" duration="14799000" />
+      <workItem from="1582329129574" duration="105000" />
+      <workItem from="1582329877461" duration="243000" />
+      <workItem from="1582330470011" duration="1550000" />
+      <workItem from="1582410776190" duration="7179000" />
+      <workItem from="1582461069679" duration="4118000" />
+      <workItem from="1582468554176" duration="2391000" />
+      <workItem from="1582471057967" duration="13000" />
+      <workItem from="1582471776837" duration="3000" />
+      <workItem from="1582478075016" duration="6336000" />
+      <workItem from="1582554109220" duration="4693000" />
+      <workItem from="1582635886680" duration="12238000" />
+      <workItem from="1582652015600" duration="7669000" />
+      <workItem from="1582669848032" duration="244000" />
+      <workItem from="1582718863269" duration="1157000" />
+      <workItem from="1582734766917" duration="4598000" />
+      <workItem from="1582741958768" duration="503000" />
+      <workItem from="1582752194370" duration="1811000" />
+      <workItem from="1582798718281" duration="5163000" />
+      <workItem from="1582804599095" duration="327000" />
+      <workItem from="1582805217394" duration="334000" />
+      <workItem from="1582811148638" duration="655000" />
+      <workItem from="1582922790724" duration="323000" />
+      <workItem from="1583016498491" duration="2659000" />
+      <workItem from="1583078232410" duration="12221000" />
+      <workItem from="1583167120161" duration="5076000" />
+      <workItem from="1583355526532" duration="1276000" />
+      <workItem from="1583407125773" duration="624000" />
+      <workItem from="1583512167945" duration="7128000" />
+      <workItem from="1583531791212" duration="1370000" />
+      <workItem from="1583582857302" duration="4146000" />
+      <workItem from="1583591499273" duration="3371000" />
+      <workItem from="1583598734205" duration="8341000" />
+      <workItem from="1583615375200" duration="5539000" />
+      <workItem from="1583622134210" duration="678000" />
+      <workItem from="1583622888135" duration="615000" />
+      <workItem from="1583669056244" duration="641000" />
+      <workItem from="1583682168521" duration="1426000" />
+      <workItem from="1583749218552" duration="152000" />
+      <workItem from="1583957817950" duration="715000" />
+      <workItem from="1584016349637" duration="8269000" />
+      <workItem from="1584110024127" duration="820000" />
+      <workItem from="1584131212843" duration="507000" />
+      <workItem from="1584205860575" duration="6242000" />
+      <workItem from="1584236105376" duration="1048000" />
+      <workItem from="1584273947998" duration="4668000" />
+      <workItem from="1584282307526" duration="380000" />
+      <workItem from="1584288806780" duration="7990000" />
+      <workItem from="1584304051745" duration="615000" />
+      <workItem from="1584355905161" duration="3644000" />
+      <workItem from="1584362104087" duration="2759000" />
+      <workItem from="1584392559895" duration="5432000" />
+      <workItem from="1584399821380" duration="626000" />
+      <workItem from="1584474182959" duration="2160000" />
+      <workItem from="1584486755577" duration="6951000" />
+      <workItem from="1584573057757" duration="801000" />
+      <workItem from="1584582325453" duration="518000" />
+      <workItem from="1584649428480" duration="6078000" />
+      <workItem from="1584978441766" duration="2370000" />
+      <workItem from="1584988594531" duration="977000" />
+      <workItem from="1585082338661" duration="600000" />
+      <workItem from="1585096873669" duration="450000" />
+      <workItem from="1585159773745" duration="5447000" />
+      <workItem from="1585244703019" duration="2607000" />
+      <workItem from="1585263629082" duration="1331000" />
+      <workItem from="1585419877207" duration="6050000" />
+      <workItem from="1585691871340" duration="6288000" />
+      <workItem from="1585769471353" duration="2692000" />
+      <workItem from="1585783465378" duration="953000" />
+      <workItem from="1585835963968" duration="1238000" />
+      <workItem from="1586617947348" duration="2697000" />
+      <workItem from="1586706102590" duration="8676000" />
+      <workItem from="1586799538649" duration="3451000" />
+      <workItem from="1586990992381" duration="1110000" />
+      <workItem from="1587043556273" duration="2683000" />
+      <workItem from="1587048977907" duration="684000" />
+      <workItem from="1587417491070" duration="403000" />
+      <workItem from="1588514145629" duration="499000" />
+      <workItem from="1588716208493" duration="1545000" />
+      <workItem from="1588810134801" duration="4000" />
+      <workItem from="1588858862874" duration="10858000" />
+      <workItem from="1588891237862" duration="1853000" />
+      <workItem from="1589128362698" duration="2360000" />
+      <workItem from="1589135349169" duration="1110000" />
+      <workItem from="1589194713455" duration="1088000" />
+      <workItem from="1589321912087" duration="6044000" />
+      <workItem from="1589391043617" duration="2838000" />
+      <workItem from="1589412938073" duration="2336000" />
+      <workItem from="1589416722261" duration="1901000" />
+      <workItem from="1589462008048" duration="3073000" />
+      <workItem from="1589467868436" duration="2500000" />
+      <workItem from="1589553438378" duration="4842000" />
+      <workItem from="1589730378671" duration="1536000" />
+      <workItem from="1589899691825" duration="4309000" />
+      <workItem from="1590077521516" duration="571000" />
+      <workItem from="1590407785651" duration="601000" />
+      <workItem from="1590415791810" duration="17850000" />
+      <workItem from="1590795104509" duration="1479000" />
+      <workItem from="1590845968222" duration="7535000" />
+      <workItem from="1590947401099" duration="623000" />
+      <workItem from="1591024542651" duration="2314000" />
+      <workItem from="1591104374211" duration="838000" />
+      <workItem from="1591116680303" duration="984000" />
+      <workItem from="1591127156794" duration="637000" />
+      <workItem from="1591189530199" duration="1128000" />
+      <workItem from="1591195516610" duration="10807000" />
+      <workItem from="1591208212281" duration="463000" />
+      <workItem from="1591615487524" duration="2706000" />
+      <workItem from="1591619437530" duration="2515000" />
+      <workItem from="1591643180055" duration="5098000" />
+      <workItem from="1591806186052" duration="2224000" />
+      <workItem from="1591973129485" duration="671000" />
+      <workItem from="1592054348973" duration="5427000" />
+      <workItem from="1592933060117" duration="1911000" />
+      <workItem from="1593526127114" duration="491000" />
+      <workItem from="1593709899219" duration="4181000" />
+      <workItem from="1593949036987" duration="5677000" />
+      <workItem from="1594149386006" duration="915000" />
+      <workItem from="1594158868522" duration="646000" />
+      <workItem from="1594726912154" duration="669000" />
+      <workItem from="1594831760062" duration="2583000" />
+      <workItem from="1599561415602" duration="1244000" />
+      <workItem from="1599569714398" duration="1406000" />
+      <workItem from="1599573788903" duration="1018000" />
+      <workItem from="1602189933211" duration="4750000" />
+      <workItem from="1602261936922" duration="1170000" />
+      <workItem from="1602884131265" duration="3000" />
+      <workItem from="1605460253283" duration="4391000" />
+      <workItem from="1606600115354" duration="1301000" />
+      <workItem from="1607019431114" duration="757000" />
+      <workItem from="1608765824080" duration="2141000" />
+      <workItem from="1608822584677" duration="1768000" />
+      <workItem from="1608998910754" duration="5393000" />
+      <workItem from="1609007437422" duration="9997000" />
+      <workItem from="1609069236028" duration="10105000" />
+      <workItem from="1609107930499" duration="2680000" />
+      <workItem from="1609111684857" duration="965000" />
+      <workItem from="1609116016325" duration="695000" />
+      <workItem from="1609358730299" duration="4401000" />
+      <workItem from="1609948961431" duration="6751000" />
+      <workItem from="1609965232454" duration="973000" />
+      <workItem from="1609968841998" duration="812000" />
+      <workItem from="1609974119034" duration="904000" />
+      <workItem from="1610038666903" duration="638000" />
+      <workItem from="1610148361157" duration="132000" />
+      <workItem from="1643471635548" duration="4823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1591206527942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527942" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1591206527941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527941" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1591206527942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527942" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1591206527942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527942" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1591206527942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527942" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1591206527942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591206527942" />
+    <state x="1193" y="224" key="RiderGenerateDialog" timestamp="1584293659312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1193" y="224" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584293659312" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1591197685608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591197685608" />
+    <state x="521" y="256" width="1105" height="695" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591197632549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="521" y="256" width="1105" height="695" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1591197632549" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589128632304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589128632304" />
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1589901771902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589901771902" />
+  </component>
+</project>
